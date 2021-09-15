@@ -1,0 +1,28 @@
+body{
+    background-image: url(img/R2.jpg);
+}
+#title{
+    color: whitesmoke;
+}
+.divinicio {
+    background-color: aquamarine;
+    text-align: center;
+}
+.parraf{
+    background-color: black;
+    
+    text-align: justify;
+    color: white;
+}
+table{
+    background-color: teal;
+    color: violet;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    color: white;
+}
+.i{
+    margin: 0 auto;
+}
